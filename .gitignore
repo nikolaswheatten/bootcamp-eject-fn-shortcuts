@@ -1,0 +1,13 @@
+*.pcap
+*.pcapng
+*.log
+*.zip
+*.exe
+*.sys
+*.pfx
+*.pem
+*.user
+logs/
+bin/
+obj/
+.vs/
